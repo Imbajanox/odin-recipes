@@ -1,2 +1,8 @@
 # odin-recipes
-A website that shows Food recipes
+This is a project i am working on while going through "The Odin Project".
+
+With this project I will demonstrate the basic skills to write a simple website using HTML.
+
+This website will show different Recipes I like.
+
+---
