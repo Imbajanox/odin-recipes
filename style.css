@@ -1,0 +1,16 @@
+body {
+    font-family: "Arial", "Verdana", sans-serif;
+}
+
+h1{
+    background-color: black;
+    color: white;
+}
+a,
+li{
+    background-color: green;
+    color: wheat;
+    text-align: center;
+    font-weight: 800;
+    
+}
