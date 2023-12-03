@@ -3,14 +3,27 @@ body {
 }
 
 h1{
-    background-color: black;
     color: white;
 }
 a,
 li{
-    background-color: green;
-    color: wheat;
+    color: black;
     text-align: center;
     font-weight: 800;
     
+}
+
+.content{
+    margin: 16px auto;
+    background-color: grey;
+    text-align: center;
+    width: 400px;
+}
+
+.navelement{
+    background-color: lightgrey;
+    color: black;
+    text-align: left;
+    width: 200px;
+    margin: 8px auto;
 }
